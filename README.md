@@ -16,7 +16,7 @@ They have been tested using a 4GB RaspberryPi 4B running Raspbian Buster with wi
 8. Measuring Jitter and Latency <sup>:spades:</sup>
 9. Programmable LED Clock and Rotating LEDs <sup>:spades:</sup>
 
-:spades: : One of more exercises in those sets required hardware other than the Rhaspberry Pi which I didn't have at hand at the moment. so I couldn't provide solutions for those exercisies :(
+<sup>:spades:</sup>: One of more exercises in those sets required hardware other than the Rhaspberry Pi which I didn't have at hand at the moment. so I couldn't provide solutions for those exercisies :(
 
 ## Preparing the RaspberryPi
 The exercises have been tested using a RaspberryPi 4B running Raspbian Buster with with a xenomai kernel 4.19.86. 
