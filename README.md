@@ -46,6 +46,7 @@ dwc_otg.fiq_enable=0 dwc_otg.fiq_fsm_enable=0 dwc_otg.nak_holdoff=0 isolcpus=0,1
 total_mem = 3072
 ```
 
+## Test Xenomai
 In order to test whether your kernel is really patched with xenomai, run (after a reboot) the latency test from xenomai tool:
 ```bash
 sudo /usr/xenomai/bin/latency
